@@ -35,6 +35,9 @@
         })
         .done(done_func)
         .fail(fail_func);
+        $('.name').val('');
+        $('.email').val('');
+        $('.message').val('');
     });
     
 })(jQuery);
