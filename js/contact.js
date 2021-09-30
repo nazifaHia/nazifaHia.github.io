@@ -27,6 +27,7 @@
     form.submit(function (e) {
         e.preventDefault();
         form_data = $(this).serialize();
+        console.log(form_data);
         $.ajax({
             type: 'POST',
             url: form.attr('action'),
