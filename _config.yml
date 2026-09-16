@@ -5,8 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
+
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "default"
 title                    : "Nazifa Tasnim Hia"
 title_separator          : "-"
 name                     : &name "Nazifa Tasnim Hia"
@@ -18,7 +20,7 @@ repository               : "nazifaHia/nazifaHia.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-aauthor:
+author:
   avatar           : "profile.png"
   name             : "Nazifa Tasnim Hia"
   pronouns         :
