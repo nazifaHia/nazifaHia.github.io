@@ -1,8 +1,9 @@
 ---
-layout: single
+layout: archive
 title: "About"
 permalink: /
 author_profile: true
+classes: wide
 ---
 
 I am a **Scientist** at the **Centre for Advanced Research in Sciences (CARS), University of Dhaka**, where I manage the IoT and Robotics Lab and supervise postgraduate research.
