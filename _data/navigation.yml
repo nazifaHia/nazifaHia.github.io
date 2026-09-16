@@ -5,6 +5,7 @@
 # prevent it from being included in the site.
 
 
+# Main navigation links
 main:
   - title: "About"
     url: /
