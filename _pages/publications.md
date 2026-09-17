@@ -74,7 +74,7 @@ classes: wide
 
 <div class="pub-card">
   <div class="pub-thumb-box">
-    <img src="/images/Lehman50.png" class="pub-thumb">
+    <img src="/images/Lehman_50.png" class="pub-thumb" height = "50">
   </div>
   <div>
     <div class="pub-title"><a href="https://www.ijcaonline.org/archives/volume184/number45/hia-2023-ijca-922559.pdf">An Empirical Study on the Evolution of Android Operating System in Terms of Lehman's Laws</a></div>
