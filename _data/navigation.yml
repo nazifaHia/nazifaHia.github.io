@@ -22,5 +22,5 @@ main:
   - title: "Students"
     url: /students/
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
