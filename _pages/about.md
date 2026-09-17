@@ -79,5 +79,12 @@ Alongside my research, I supervise undergraduate and postgraduate researchers ac
     </div>
   </div>
 
+  <div class="update">
+    <span class="date">2023</span>
+    <div class="text">
+      Received the ICT Division Master's Fellowship from the Government of Bangladesh for graduate research.
+    </div>
+  </div>
+
 </div>
 
