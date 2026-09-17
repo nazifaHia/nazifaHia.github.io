@@ -5,8 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-# Contact
-
 **Email**
 
 - bsse0930@iit.du.ac.bd
