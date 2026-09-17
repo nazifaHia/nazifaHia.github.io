@@ -418,3 +418,49 @@ html[data-theme="dark"] .news-content p{
 }
 .mentor-tag.active { background: #e7f3e8; color: #2a7a34; }
 .mentor-tag.collab { background: #fdf3dc; color: #a8790a; }
+
+html.dark-mode {
+  background: #121212;
+  color: #e4e4e4;
+}
+html.dark-mode body,
+html.dark-mode .page,
+html.dark-mode .archive {
+  background: #121212;
+  color: #e4e4e4;
+}
+html.dark-mode .pub-card,
+html.dark-mode .exp-card,
+html.dark-mode .exp-primary,
+html.dark-mode .mentor-card,
+html.dark-mode .project-card {
+  background: #1e1e1e;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.4);
+}
+html.dark-mode .pub-title a,
+html.dark-mode .exp-role,
+html.dark-mode .mentor-name,
+html.dark-mode .lab-heading,
+html.dark-mode .exp-page-title {
+  color: #8fb4ff;
+}
+html.dark-mode .pub-desc,
+html.dark-mode .exp-desc,
+html.dark-mode .pub-authors,
+html.dark-mode .mentor-connection,
+html.dark-mode .project-people {
+  color: #bbb;
+}
+html.dark-mode .pub-venue {
+  background: #3a3320;
+  color: #e8c96a;
+}
+html.dark-mode .exp-chip {
+  background: #2a3244;
+  color: #a9c2ff;
+}
+html.dark-mode .thumb-box,
+html.dark-mode .pub-thumb-box {
+  background: #2a2a2a;
+  border-color: #3a3a3a;
+}
