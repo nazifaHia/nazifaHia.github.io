@@ -85,62 +85,68 @@
   font-weight:500;
 }
 
-/* News timeline */
+/* =========================
+   Francisco-style What's New
+   ========================= */
 
-.news-timeline{
-  position:relative;
-  margin-top:2rem;
+.whats-new{
+  margin-top:1.5rem;
 }
 
-.news-timeline::before{
-  content:"";
-  position:absolute;
-  left:78px;
-  top:0;
-  bottom:0;
-  width:2px;
-  background:#dadada;
+.update{
+  display:grid;
+  grid-template-columns:90px 1fr;
+  gap:1.5rem;
+  padding:.85rem 0;
+  align-items:start;
 }
 
-.news-item{
-  display:flex;
-  gap:2rem;
-  margin-bottom:2rem;
+.update:not(:last-child){
+  border-bottom:1px solid rgba(0,0,0,.06);
 }
 
-.news-year{
-  width:65px;
-  text-align:right;
-  font-weight:700;
-  color:#666;
+.date{
+  color:#6b7280;
+  font-size:.88rem;
+  font-weight:600;
+  white-space:nowrap;
 }
 
-.news-content{
-  position:relative;
-  padding-left:1.5rem;
-  flex:1;
+.text{
+  line-height:1.7;
 }
 
-.news-content::before{
-  content:"";
-  position:absolute;
-  left:-8px;
-  top:.45rem;
-  width:11px;
-  height:11px;
-  border-radius:50%;
-  background:#2b6cb0;
-  box-shadow:0 0 0 4px white;
+.text strong{
+  font-weight:600;
 }
 
-.news-content h4{
-  margin:0;
+.text em{
+  font-style:italic;
 }
 
-.news-content p{
-  margin:.35rem 0 0;
-  color:#555;
-  line-height:1.6;
+/* Dark mode */
+
+html[data-theme="dark"] .update:not(:last-child){
+  border-color:rgba(255,255,255,.08);
+}
+
+html[data-theme="dark"] .date{
+  color:#9ca3af;
+}
+
+/* Mobile */
+
+@media (max-width:640px){
+
+.update{
+  grid-template-columns:1fr;
+  gap:.3rem;
+}
+
+.date{
+  font-size:.8rem;
+}
+
 }
 
 /* Dark mode support */

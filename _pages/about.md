@@ -26,57 +26,49 @@ Alongside my research, I supervise undergraduate and postgraduate researchers ac
   <span>Bangla NLP</span>
 </div>
 
----
+## What's New
 
-## News
+<div class="whats-new">
 
-<div class="news-timeline">
-
-  <div class="news-item">
-    <div class="news-year">2026</div>
-    <div class="news-content">
-      <h4>IEEE Access paper accepted</h4>
-      <p><em>A Domain-Invariant and Edge-Efficient Framework for Leaf Disease Classification.</em></p>
+  <div class="update">
+    <span class="date">Sep 2026</span>
+    <div class="text">
+      Our paper <em>A Domain-Invariant and Edge-Efficient Framework for Leaf Disease Classification</em> was accepted in <strong>IEEE Access</strong>.
     </div>
   </div>
 
-  <div class="news-item">
-    <div class="news-year">2026</div>
-    <div class="news-content">
-      <h4>Joined CARS as Scientist</h4>
-      <p>Became In-Charge of the IoT & Robotics Lab at the University of Dhaka.</p>
+  <div class="update">
+    <span class="date">Sep 2026</span>
+    <div class="text">
+      Joined the <strong>Centre for Advanced Research in Sciences (CARS), University of Dhaka</strong> as a Scientist and became In-Charge of the IoT & Robotics Lab.
     </div>
   </div>
 
-  <div class="news-item">
-    <div class="news-year">2026</div>
-    <div class="news-content">
-      <h4>ICSEA paper accepted</h4>
-      <p><em>CSCoT: Constraint-Guided Structured Prompting for Complex Code Generation Tasks.</em></p>
+  <div class="update">
+    <span class="date">2026</span>
+    <div class="text">
+      Our paper <em>CSCoT: Constraint-Guided Structured Prompting for Complex Code Generation Tasks</em> was accepted at <strong>ICSEA 2026</strong>.
     </div>
   </div>
 
-  <div class="news-item">
-    <div class="news-year">2026</div>
-    <div class="news-content">
-      <h4>Started supervising research students</h4>
-      <p>Mentoring undergraduate and postgraduate researchers across CARS, DULL-IIT, and BARTA on projects spanning Edge AI, AI Security, LLMs, and Software Engineering.</p>
+  <div class="update">
+    <span class="date">2026</span>
+    <div class="text">
+      Began supervising undergraduate and postgraduate researchers across CARS, DULL-IIT, and BARTA Research Lab on projects spanning Edge AI, AI Security, Large Language Models, and Software Engineering.
     </div>
   </div>
 
-  <div class="news-item">
-    <div class="news-year">2025</div>
-    <div class="news-content">
-      <h4>IEEE BigData Workshop paper accepted</h4>
-      <p><em>Voices of Care</em> on LLM-assisted analysis of Alzheimer’s and dementia discourse on Reddit.</p>
+  <div class="update">
+    <span class="date">2025</span>
+    <div class="text">
+      <em>Voices of Care</em>, our LLM-assisted analysis of Alzheimer's and dementia discourse on Reddit, was accepted at the <strong>IEEE BigData Workshop</strong>.
     </div>
   </div>
 
-  <div class="news-item">
-    <div class="news-year">2023</div>
-    <div class="news-content">
-      <h4>ICT Division Master's Fellowship</h4>
-      <p>Awarded by the Government of Bangladesh for graduate research.</p>
+  <div class="update">
+    <span class="date">2023</span>
+    <div class="text">
+      Received the ICT Division Master's Fellowship from the Government of Bangladesh for graduate research.
     </div>
   </div>
 
