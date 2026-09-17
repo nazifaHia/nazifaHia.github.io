@@ -37,7 +37,7 @@ A constraint-guided structured prompting method for complex, multi-step code gen
 <table>
 <tr>
 <td width="90">
-  <img src="/images/pub-icon.png" class="pub-thumb">
+  <img src="/images/MMDUnlearning-Final.png" class="pub-thumb">
 </td>
 <td>
 <b><a href="#">SPARC-CL: Feature Unlearning for Domain-Adaptive Leaf Disease Classification on Edge Devices</a></b><br>
