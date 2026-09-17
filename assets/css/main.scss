@@ -301,15 +301,8 @@ html[data-theme="dark"] .news-content p{
   .pub-thumb-box { width: 100%; max-width: 320px; }
 }
 
-.exp-page-title {
-  text-align: center;
-  font-size: 1.8em;
-  font-weight: 700;
-  color: #1f3864;
-  margin-bottom: 30px;
-}
 .exp-primary {
-  padding: 22px 28px;
+  padding: 24px;
   margin-bottom: 22px;
   border-radius: 10px;
   background: #f4f7fb;
@@ -323,47 +316,44 @@ html[data-theme="dark"] .news-content p{
 }
 .exp-card {
   flex: 1;
-  padding: 20px 24px;
+  padding: 20px;
   border-radius: 10px;
   background: #fafafa;
   box-shadow: 0 1px 4px rgba(0,0,0,0.08);
 }
-.exp-top {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  flex-wrap: wrap;
-}
-.exp-role { font-size: 1.2em; font-weight: 700; color: #1f3864; }
-.exp-dates { font-style: italic; color: #888; font-size: 0.9em; }
-.exp-place { font-style: italic; color: #555; margin-bottom: 8px; }
-.exp-oneliner { font-size: 0.95em; color: #333; margin-bottom: 10px; }
-.exp-stat {
-  font-size: 0.85em;
-  color: #444;
-  margin-bottom: 10px;
-}
-.exp-stat b { color: #1f3864; }
-.exp-tech {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  margin-bottom: 10px;
-}
-.exp-chip {
-  font-size: 0.78em;
-  font-weight: 600;
-  padding: 2px 9px;
-  border-radius: 12px;
-  background: #eef2f8;
+.exp-role {
+  font-size: 1.15em;
+  font-weight: 700;
   color: #1f3864;
+  margin-bottom: 2px;
 }
+.exp-place {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 10px;
+}
+.exp-dates {
+  float: right;
+  font-style: italic;
+  color: #888;
+  font-size: 0.9em;
+}
+.exp-tag {
+  display: inline-block;
+  font-size: 0.82em;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 4px;
+  margin: 6px 6px 0 0;
+}
+.exp-tag.ongoing { background: #e7f3e8; color: #2a7a34; }
+.exp-tag.completed { background: #eee; color: #555; }
 .exp-students-link {
-  font-size: 0.85em;
-}
-.exp-students-link a { color: #1a4480; }
-.exp-divider {
   margin-top: 10px;
+  font-size: 0.9em;
+}
+.exp-divider {
+  margin-top: 20px;
   margin-bottom: 18px;
   font-size: 1.15em;
   font-weight: 700;

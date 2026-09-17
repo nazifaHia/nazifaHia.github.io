@@ -1,76 +1,54 @@
 ---
 title: "Experience"
 permalink: /experience/
-author_profile: false
+author_profile: true
 classes: wide
 ---
 
-<div class="exp-page-title">Experience</div>
-
 <div class="exp-primary">
-  <div class="exp-top">
-    <div class="exp-role">Scientist — CARS, University of Dhaka</div>
-    <div class="exp-dates">Since Sep 2025</div>
-  </div>
-  <div class="exp-place">In charge of the IoT & Robotics Lab</div>
-  <div class="exp-oneliner">I lead research on domain adaptation and machine unlearning for edge-deployable computer vision.</div>
-  <div class="exp-stat">Collaborating with <b>[N] postgraduate researchers</b> in the lab.</div>
-  <div class="exp-tech">
-    <span class="exp-chip">PyTorch</span>
-    <span class="exp-chip">ONNX</span>
-    <span class="exp-chip">[+ your stack]</span>
-  </div>
-  <div class="exp-students-link">Ongoing & completed projects, and student collaborators → <a href="/students/">Students</a></div>
+  <div class="exp-dates">Sep 2025 – present</div>
+  <div class="exp-role">Scientist — Centre for Advanced Research in Sciences (CARS)</div>
+  <div class="exp-place">University of Dhaka, Dhaka, Bangladesh</div>
+  <p>Conducting research on Computer Vision and Edge AI, developing domain adaptation and machine unlearning approaches to improve model adaptability and reliability, while supervising postgraduate research and managing the IoT and Robotics Lab to support applied research and innovation.</p>
+  <span class="exp-tag ongoing">Ongoing: Modality-Agnostic Domain Adaptation Framework for Heterogeneous Data</span>
+  <span class="exp-tag completed">Completed: Lightweight Domain-Adaptive Leaf Disease Classification for Tiny/Edge Devices</span>
+  <div class="exp-students-link">Supervising postgraduate researchers in this lab — see <a href="/students/">Students</a> for details.</div>
 </div>
 
 <div class="exp-row">
   <div class="exp-card">
-    <div class="exp-top">
-      <div class="exp-role">Research Mentor — BARTA Lab</div>
-      <div class="exp-dates">Since Apr 2025</div>
-    </div>
+    <div class="exp-dates">Apr 2025 – present</div>
+    <div class="exp-role">Research Mentor — BARTA Research Lab</div>
     <div class="exp-place">Global collaboration: USA, Canada, Bangladesh</div>
-    <div class="exp-oneliner">I mentor undergraduate thesis work on LLMs and NLP for real-world applications.</div>
-    <div class="exp-stat">Collaborating with <b>[N] undergraduate researchers</b>.</div>
-    <div class="exp-tech">
-      <span class="exp-chip">PyTorch</span>
-      <span class="exp-chip">HuggingFace</span>
-      <span class="exp-chip">[+ your stack]</span>
-    </div>
-    <div class="exp-students-link">Details → <a href="/students/">Students</a></div>
+    <p>Contributing to research in Large Language Models and Natural Language Processing, with a focus on real-world, data-driven applications, while supervising and mentoring undergraduate thesis projects.</p>
+    <span class="exp-tag ongoing">Ongoing: A Security Framework for Protecting LLM Agents Against Prompt Injection</span>
+    <span class="exp-tag ongoing">Ongoing: Resource-Efficient Language Model Inference through Recursive and Small Language Models</span>
+    <span class="exp-tag completed">Completed: LLM-Assisted Analysis of Alzheimer's and Dementia Discourse on Reddit</span>
+    <div class="exp-students-link">Mentoring undergraduate thesis students — see <a href="/students/">Students</a>.</div>
   </div>
 
   <div class="exp-card">
-    <div class="exp-top">
-      <div class="exp-role">Research Mentor — DULL-IIT</div>
-      <div class="exp-dates">Since Aug 2025</div>
-    </div>
-    <div class="exp-place">University of Dhaka</div>
-    <div class="exp-oneliner">I mentor postgraduate thesis work on flaky-test classification and prompt-based code generation.</div>
-    <div class="exp-stat">Collaborating with <b>[N] postgraduate researchers</b>.</div>
-    <div class="exp-tech">
-      <span class="exp-chip">Python</span>
-      <span class="exp-chip">LLM APIs</span>
-      <span class="exp-chip">[+ your stack]</span>
-    </div>
-    <div class="exp-students-link">Details → <a href="/students/">Students</a></div>
+    <div class="exp-dates">Aug 2025 – present</div>
+    <div class="exp-role">Research Mentor — DULL-IIT</div>
+    <div class="exp-place">University of Dhaka, Dhaka, Bangladesh</div>
+    <p>Contributing to research on Flaky Testing Classification and Prompt-Based Code Generation, while supervising and mentoring postgraduate thesis research.</p>
+    <span class="exp-tag ongoing">Ongoing: Cross-Language Flaky Test Classification</span>
+    <span class="exp-tag completed">Completed: Bangla Plagiarism Tool</span>
+    <span class="exp-tag completed">Completed: Prompt-Based Code Generation</span>
+    <div class="exp-students-link">Mentoring postgraduate thesis students — see <a href="/students/">Students</a>.</div>
   </div>
 </div>
 
 <h3 class="exp-divider">Previous Experience</h3>
 
 <div class="exp-card" style="margin-bottom: 16px;">
-  <div class="exp-top">
-    <div class="exp-role">Lecturer — University of Liberal Arts Bangladesh</div>
-    <div class="exp-dates">Jan 2023 – Sep 2025</div>
-  </div>
-  <div class="exp-oneliner">Taught undergraduate CS courses and supervised student capstone projects.</div>
+  <div class="exp-dates">Jan 2023 – Sep 2025</div>
+  <div class="exp-role">Lecturer — University of Liberal Arts Bangladesh</div>
+  <p>Taught undergraduate theory and laboratory courses across core Computer Science disciplines. Supervised student capstone projects and mentored students in research and technical skills.</p>
 </div>
 
 <div class="exp-card">
-  <div class="exp-top">
-    <div class="exp-role">Software Engineer — Orion Informatics Ltd.</div>
-    <div class="exp-dates">Jan 2020 – Feb 2022</div>
-  </div>
-  <div class="exp-oneliner">Built and maintained the backend of a fintech platform serving 200,000+ users.</div>
+  <div class="exp-dates">Jan 2020 – Feb 2022</div>
+  <div class="exp-role">Software Engineer — Orion Informatics Ltd.</div>
+  <p>Developed and maintained the core backend of a production-grade financial application serving 15+ financial institutions and over 200,000 registered users. Contributed to full-stack development, system maintenance, and deployment of enterprise financial software.</p>
 </div>
