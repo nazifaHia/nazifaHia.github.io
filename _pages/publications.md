@@ -74,7 +74,7 @@ classes: wide
 
 <div class="pub-card">
   <div class="pub-thumb-box">
-    <img src="/images/Lehman.png" class="pub-thumb" height = "300">
+    <img src="/images/Lehman.png" class="pub-thumb" style="height: 300px; width: auto; max-height: 300px; object-fit: contain;">
   </div>
   <div>
     <div class="pub-title"><a href="https://www.ijcaonline.org/archives/volume184/number45/hia-2023-ijca-922559.pdf">An Empirical Study on the Evolution of Android Operating System in Terms of Lehman's Laws</a></div>
@@ -83,7 +83,6 @@ classes: wide
     <div class="pub-desc">An empirical evaluation of Android OS evolution against Lehman's laws of software evolution.</div>
   </div>
 </div>
-
 <h3 class="pub-year">2022</h3>
 
 <div class="pub-card">
