@@ -9,7 +9,7 @@ author_profile: true
 ### 2026
 
 <table>
-<tr><td width="90"><img src="/images/pub-icon.png" width="80"></td>
+<tr><td width="90"><img src="/images/maindia1.drawio.png" width="80"></td>
 <td>
 <b><a href="https://doi.org/10.1109/ACCESS.2026.3734726">A Domain-Invariant and Edge-Efficient Framework for Leaf Disease Classification</a></b><br>
 Hossain, S., <b>Hia, N. T.</b>, Nower, N.<br>
@@ -19,7 +19,7 @@ A lightweight, domain-invariant framework using SimCLR and multi-adversarial dom
 </table>
 
 <table>
-<tr><td width="90"><img src="/images/pub-icon.png" width="80"></td>
+<tr><td width="90"><img src="/images/CSCoT.png" width="80"></td>
 <td>
 <b><a href="#">CSCoT: Constraint-Guided Structured Prompting for Complex Code Generation Tasks</a></b><br>
 Quadir, H. M. S. Ahmed, <b>Hia, N. T. (Corresponding Author)</b><br>
@@ -41,7 +41,7 @@ A feature-unlearning framework for domain-adaptive leaf disease classification, 
 ### 2025
 
 <table>
-<tr><td width="90"><img src="/images/pub-icon.png" width="80"></td>
+<tr><td width="90"><img src="/images/Reddit.png" width="80"></td>
 <td>
 <b><a href="https://ieeexplore.ieee.org/abstract/document/11402577">Voices of Care: Actor-Centric LLM-Assisted Analysis of Alzheimer's and Dementia Discourse on Reddit</a></b><br>
 Tumpa, U. K., <b>Hia, N. T.</b>, Fatemi, M. S., Alam Joarder, M. M., Rayana, S.<br>
@@ -53,7 +53,7 @@ LLM-assisted, actor-centric discourse analysis of Alzheimer's and dementia conve
 ### 2024
 
 <table>
-<tr><td width="90"><img src="/images/pub-icon.png" width="80"></td>
+<tr><td width="90"><img src="/images/Evolution.png" width="80"></td>
 <td>
 <b><a href="https://thesai.org/Downloads/Volume15No6/Paper_150-A_Differential_Evolution_based_Pseudotime_Estimation_Method.pdf">A Differential Evolution-Based Pseudotime Estimation Method for Single-Cell Data</a></b><br>
 <b>Hia, N. T.</b>, Emu, I. J., Ibrahim, M., Ahmed, S.<br>
@@ -65,7 +65,7 @@ A differential-evolution-based method for estimating pseudotime trajectories in 
 ### 2023
 
 <table>
-<tr><td width="90"><img src="/images/pub-icon.png" width="80"></td>
+<tr><td width="90"><img src="/images/Lehman.png" width="80"></td>
 <td>
 <b><a href="https://www.ijcaonline.org/archives/volume184/number45/hia-2023-ijca-922559.pdf">An Empirical Study on the Evolution of Android Operating System in Terms of Lehman's Laws</a></b><br>
 <b>Hia, N. T.</b>, Mim, N. T., Satter, A., Kumar, K.<br>
