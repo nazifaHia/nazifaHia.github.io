@@ -31,11 +31,8 @@ author:
   uri              :
   email            :  "tasnimhia75@gmail.com"
 
-  # # Academic websites
-  # arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "JbYe_s4AAAAJ&hl=en"
-  orcid            : "0009-0009-4200-0651"
-  # pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=JbYe_s4AAAAJ&hl=en"
+  orcid            : "https://orcid.org/0009-0009-4200-0651"
   github           : "nazifaHia"
   linkedin         : "nazifa-tasnim-hia-59b7b8147"
   # bluesky          :
