@@ -89,8 +89,36 @@
    Francisco-style What's New
    ========================= */
 
-.whats-new{
-  margin-top:1.5rem;
+.whats-new {
+  margin-top: 1.5rem;
+  max-height: 360px;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+
+.whats-new {
+  margin-top: 1.5rem;
+  max-height: 360px;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+
+/* What's New scrollbar */
+.whats-new::-webkit-scrollbar {
+  width: 6px;
+}
+
+.whats-new::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.whats-new::-webkit-scrollbar-thumb {
+  background: #c5c5c5;
+  border-radius: 10px;
+}
+
+.whats-new::-webkit-scrollbar-thumb:hover {
+  background: #999;
 }
 
 .update{

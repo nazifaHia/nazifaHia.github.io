@@ -16,12 +16,11 @@ My broader research interests include large language models, AI security, prompt
 Alongside my research, I supervise undergraduate and postgraduate researchers across multiple research groups, mentoring students from research ideation and experimental design to implementation, thesis development, and publication. I enjoy building collaborative research environments that help transform early-stage ideas into impactful, real-world AI solutions.
 
 <div class="research-tags">
+  <span>Computer Vision</span>
+  <span>Machine Unlearning</span>
   <span>Edge AI</span>
   <span>Trustworthy AI</span>
-  <span>Machine Unlearning</span>
-  <span>Computer Vision</span>
   <span>Domain Adaptation</span>
-  <span>AI Security</span>
   <span>LLMs</span>
   <span>Bangla NLP</span>
 </div>
@@ -34,13 +33,6 @@ Alongside my research, I supervise undergraduate and postgraduate researchers ac
     <span class="date">Sep 2026</span>
     <div class="text">
       Our paper <em>A Domain-Invariant and Edge-Efficient Framework for Leaf Disease Classification</em> was accepted in <strong>IEEE Access</strong>.
-    </div>
-  </div>
-
-  <div class="update">
-    <span class="date">Sep 2026</span>
-    <div class="text">
-      Joined the <strong>Centre for Advanced Research in Sciences (CARS), University of Dhaka</strong> as a Scientist and became In-Charge of the IoT & Robotics Lab.
     </div>
   </div>
 
@@ -62,6 +54,13 @@ Alongside my research, I supervise undergraduate and postgraduate researchers ac
     <span class="date">2025</span>
     <div class="text">
       <em>Voices of Care</em>, our LLM-assisted analysis of Alzheimer's and dementia discourse on Reddit, was accepted at the <strong>IEEE BigData Workshop</strong>.
+    </div>
+  </div>
+
+  <div class="update">
+    <span class="date">Sep 2025</span>
+    <div class="text">
+      Joined the <strong>Centre for Advanced Research in Sciences (CARS), University of Dhaka</strong> as a Scientist and became In-Charge of the IoT & Robotics Lab.
     </div>
   </div>
 
