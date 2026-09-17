@@ -7,6 +7,8 @@ classes: wide
 
 <div class="exp-page-title">Mentorship</div>
 
+<!-- <h3 class="lab-heading">My Mentors</h3> -->
+
 <h3 class="lab-heading">My Mentors</h3>
 
 <div class="mentor-row">
@@ -14,19 +16,39 @@ classes: wide
     <img src="/images/mentors/nower.jpg" class="mentor-photo">
     <div class="mentor-name">Dr. Naushin Nower</div>
     <div class="mentor-title">Professor & Director, IIT, University of Dhaka</div>
+    <div class="mentor-tag active">Mentor & Reference</div>
     <div class="mentor-connection">[How you're connected — e.g., "Guides my domain adaptation and edge AI research at CARS."]</div>
   </div>
   <div class="mentor-card">
     <img src="/images/mentors/ahmed.jpg" class="mentor-photo">
     <div class="mentor-name">Dr. Sumon Ahmed</div>
     <div class="mentor-title">Associate Professor, IIT, University of Dhaka</div>
+    <div class="mentor-tag active">Mentor & Reference</div>
     <div class="mentor-connection">[How you're connected]</div>
   </div>
   <div class="mentor-card">
     <img src="/images/mentors/kabir.jpg" class="mentor-photo">
     <div class="mentor-name">Dr. Ahmedul Kabir</div>
     <div class="mentor-title">Associate Professor, IIT, University of Dhaka</div>
+    <div class="mentor-tag active">Mentor & Reference</div>
     <div class="mentor-connection">[How you're connected]</div>
+  </div>
+</div>
+
+<div class="mentor-row">
+  <div class="mentor-card">
+    <img src="/images/mentors/mistry.jpg" class="mentor-photo">
+    <div class="mentor-name">Dr. Sajib Mistry</div>
+    <div class="mentor-title">Curtin University, Australia</div>
+    <div class="mentor-tag collab">Collaborator, Former Mentor</div>
+    <div class="mentor-connection">[e.g., "Co-supervises [project]; was my primary mentor during [period]."]</div>
+  </div>
+  <div class="mentor-card">
+    <img src="/images/mentors/rayana.jpg" class="mentor-photo">
+    <div class="mentor-name">Dr. Shebuti Rayana</div>
+    <div class="mentor-title">[Institution]</div>
+    <div class="mentor-tag collab">Collaborator, Former Mentor</div>
+    <div class="mentor-connection">[e.g., "Co-supervises [project]; was my primary mentor during [period]."]</div>
   </div>
 </div>
 
