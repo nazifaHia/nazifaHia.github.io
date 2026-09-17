@@ -44,14 +44,6 @@ Alongside my research, I supervise undergraduate and postgraduate researchers ac
   </div>
 
   <div class="update">
-    <span class="date">2026</span>
-    <div class="text">
-      Began supervising AI Security, LLM, and Software Engineering research across CARS, DULL-IIT, and BARTA Research Lab.
-
-    </div>
-  </div>
-
-  <div class="update">
     <span class="date">2025</span>
     <div class="text">
       <em>Voices of Care</em>, our LLM-assisted analysis of Alzheimer's and dementia discourse on Reddit, was accepted at the <strong>IEEE BigData Workshop</strong>.
