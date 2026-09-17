@@ -34,14 +34,14 @@ Alongside my research, I supervise undergraduate and postgraduate researchers ac
   </div>
 
   <div class="update">
-    <span class="date">2026</span>
+    <span class="date">August 2026</span>
     <div class="text">
       Our paper <em>CSCoT: Constraint-Guided Structured Prompting for Complex Code Generation Tasks</em> was accepted at <strong>ICSEA 2026</strong>.
     </div>
   </div>
 
   <div class="update">
-    <span class="date">2025</span>
+    <span class="date">Nov 2025</span>
     <div class="text">
       <em>Voices of Care</em>, our LLM-assisted analysis of Alzheimer's and dementia discourse on Reddit, was accepted at the <strong>IEEE BigData Workshop</strong>.
     </div>
@@ -61,6 +61,7 @@ Alongside my research, I supervise undergraduate and postgraduate researchers ac
   </div>
 </div>
 
+
 <div class="update">
   <span class="date">Apr 2025</span>
   <div class="text">
@@ -68,19 +69,25 @@ Alongside my research, I supervise undergraduate and postgraduate researchers ac
   </div>
 </div>
 
+<div class="update">
+    <span class="date">Auguat 2023</span>
+    <div class="text">
+      Joined University Of Liberal Arts Bangladesh (ULAB) as a full-time Faculty.
+    </div>
+</div>
 
-  <div class="update">
-    <span class="date">2023</span>
+<div class="update">
+    <span class="date">Jan 2023</span>
+    <div class="text">
+      Joined University Of Liberal Arts Bangladesh (ULAB) as an Adjunct Faculty.
+    </div>
+</div>
+
+<div class="update">
+    <span class="date">Jan 2023</span>
     <div class="text">
       Received the ICT Division Master's Fellowship from the Government of Bangladesh for graduate research.
     </div>
-  </div>
-
-  <div class="update">
-    <span class="date">2023</span>
-    <div class="text">
-      Received the ICT Division Master's Fellowship from the Government of Bangladesh for graduate research.
-    </div>
-  </div>
+</div>
 
 </div>

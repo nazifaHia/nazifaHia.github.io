@@ -74,7 +74,7 @@ classes: wide
 
 <div class="pub-card">
   <div class="pub-thumb-box">
-    <img src="/images/Lehman.png" class="pub-thumb">
+    <img src="/images/Lehman50.png" class="pub-thumb">
   </div>
   <div>
     <div class="pub-title"><a href="https://www.ijcaonline.org/archives/volume184/number45/hia-2023-ijca-922559.pdf">An Empirical Study on the Evolution of Android Operating System in Terms of Lehman's Laws</a></div>
@@ -88,7 +88,7 @@ classes: wide
 
 <div class="pub-card">
   <div class="pub-thumb-box">
-    <img src="/images/pub-icon.png" class="pub-thumb">
+    <img src="/images/SLR.png" class="pub-thumb">
   </div>
   <div>
     <div class="pub-title"><a href="https://slr-m.com/index.php/home/article/view/45/36">Automatic Cell Type Annotation Using Supervised Classification: A Systematic Literature Review</a></div>
