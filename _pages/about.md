@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Research & Mentorship"
 permalink: /
 author_profile: true
