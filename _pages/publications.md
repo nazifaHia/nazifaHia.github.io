@@ -19,7 +19,7 @@ A lightweight, domain-invariant framework using SimCLR and multi-adversarial dom
 </table>
 
 <table>
-<tr><td width="90"><img src="/images/CSCoT.png" width="80"></td>
+<tr><td width="90"><img src="/images/CSCot.png" width="80"></td>
 <td>
 <b><a href="#">CSCoT: Constraint-Guided Structured Prompting for Complex Code Generation Tasks</a></b><br>
 Quadir, H. M. S. Ahmed, <b>Hia, N. T. (Corresponding Author)</b><br>
