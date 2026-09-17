@@ -46,7 +46,8 @@ Alongside my research, I supervise undergraduate and postgraduate researchers ac
   <div class="update">
     <span class="date">2026</span>
     <div class="text">
-      Began supervising undergraduate and postgraduate researchers across CARS, DULL-IIT, and BARTA Research Lab on projects spanning Edge AI, AI Security, Large Language Models, and Software Engineering.
+      Began supervising AI Security, LLM, and Software Engineering research across CARS, DULL-IIT, and BARTA Research Lab.
+
     </div>
   </div>
 

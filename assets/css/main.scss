@@ -89,23 +89,79 @@
    Francisco-style What's New
    ========================= */
 
-.whats-new {
-  margin-top: 1.5rem;
-  max-height: 360px;
-  overflow-y: auto;
-  padding-right: 10px;
-}
+/* =========================
+   What's New
+   ========================= */
 
 .whats-new {
-  margin-top: 1.5rem;
-  max-height: 360px;
+  margin-top: 1.2rem;
+  max-height: 300px;
   overflow-y: auto;
-  padding-right: 10px;
+  padding: 0.2rem 0.7rem 0.2rem 0;
+  scrollbar-width: thin;
 }
 
-/* What's New scrollbar */
+/* Heading */
+.news-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.news-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.35rem;
+  height: 1.35rem;
+  border-radius: 50%;
+  font-size: 0.8rem;
+  font-weight: 900;
+  background: #ff6b35;
+  color: white;
+  box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.12);
+}
+
+/* Individual news item */
+.update {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 0.7rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.18);
+  line-height: 1.4;
+}
+
+.update:last-child {
+  border-bottom: none;
+}
+
+/* Date */
+.update .date {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #ff6b35;
+  white-space: nowrap;
+  padding-top: 0.15rem;
+}
+
+/* News text */
+.update .text {
+  font-size: 0.82rem;
+  margin: 0;
+}
+
+.update strong {
+  font-weight: 700;
+}
+
+/* Scrollbar */
 .whats-new::-webkit-scrollbar {
-  width: 6px;
+  width: 5px;
 }
 
 .whats-new::-webkit-scrollbar-track {
@@ -113,45 +169,13 @@
 }
 
 .whats-new::-webkit-scrollbar-thumb {
-  background: #c5c5c5;
+  background: rgba(255, 107, 53, 0.45);
   border-radius: 10px;
 }
 
 .whats-new::-webkit-scrollbar-thumb:hover {
-  background: #999;
+  background: rgba(255, 107, 53, 0.8);
 }
-
-.update{
-  display:grid;
-  grid-template-columns:90px 1fr;
-  gap:1.5rem;
-  padding:.85rem 0;
-  align-items:start;
-}
-
-.update:not(:last-child){
-  border-bottom:1px solid rgba(0,0,0,.06);
-}
-
-.date{
-  color:#6b7280;
-  font-size:.88rem;
-  font-weight:600;
-  white-space:nowrap;
-}
-
-.text{
-  line-height:1.7;
-}
-
-.text strong{
-  font-weight:600;
-}
-
-.text em{
-  font-style:italic;
-}
-
 /* Dark mode */
 
 html[data-theme="dark"] .update:not(:last-child){
