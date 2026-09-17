@@ -1,7 +1,7 @@
 ---
 title: "Current Roles"
 permalink: /experience/
-author_profile: false
+author_profile: true
 classes: wide
 ---
 
