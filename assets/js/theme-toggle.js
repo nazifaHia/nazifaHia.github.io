@@ -12,7 +12,7 @@
   }
 
   const saved = localStorage.getItem('theme');
-  applyTheme(saved === 'dark');
+  applyTheme(saved !== 'light');   // dark by default, light only if explicitly chosen
 
   if (toggleBtn) {
     toggleBtn.addEventListener('click', function (e) {

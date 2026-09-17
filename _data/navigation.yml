@@ -12,12 +12,12 @@ main:
 
   - title: "Experience"
     url: /experience/
-    
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /portfolio/
+  # - title: "Projects"
+  #   url: /portfolio/
 
   - title: "Students"
     url: /students/
