@@ -34,7 +34,7 @@ Alongside my research, I supervise undergraduate and postgraduate researchers ac
   </div>
 
   <div class="update">
-    <span class="date">August 2026</span>
+    <span class="date">Aug 2026</span>
     <div class="text">
       Our paper <em>CSCoT: Constraint-Guided Structured Prompting for Complex Code Generation Tasks</em> was accepted at <strong>ICSEA 2026</strong>.
     </div>
@@ -70,7 +70,7 @@ Alongside my research, I supervise undergraduate and postgraduate researchers ac
 </div>
 
 <div class="update">
-    <span class="date">Auguat 2023</span>
+    <span class="date">Aug 2023</span>
     <div class="text">
       Joined University Of Liberal Arts Bangladesh (ULAB) as a full-time Faculty.
     </div>
