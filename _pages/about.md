@@ -1,5 +1,5 @@
 ---
-title: "Research & Mentorship"
+# title: "Research & Mentorship"
 permalink: /
 author_profile: true
 classes: wide

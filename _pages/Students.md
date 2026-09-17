@@ -1,27 +1,125 @@
 ---
-title: "Students"
+title: "Mentorship"
 permalink: /students/
-author_profile: true
+author_profile: false
+classes: wide
 ---
 
-# Students & Mentorship
+<div class="exp-page-title">Mentorship</div>
 
-I supervise undergraduate and postgraduate research through CARS, DULL-IIT, and BARTA Research Lab.
+<h3 class="lab-heading">My Mentors</h3>
 
-## Current MSc Students
+<div class="mentor-row">
+  <div class="mentor-card">
+    <img src="/images/mentors/nower.jpg" class="mentor-photo">
+    <div class="mentor-name">Dr. Naushin Nower</div>
+    <div class="mentor-title">Professor & Director, IIT, University of Dhaka</div>
+    <div class="mentor-connection">[How you're connected — e.g., "Guides my domain adaptation and edge AI research at CARS."]</div>
+  </div>
+  <div class="mentor-card">
+    <img src="/images/mentors/ahmed.jpg" class="mentor-photo">
+    <div class="mentor-name">Dr. Sumon Ahmed</div>
+    <div class="mentor-title">Associate Professor, IIT, University of Dhaka</div>
+    <div class="mentor-connection">[How you're connected]</div>
+  </div>
+  <div class="mentor-card">
+    <img src="/images/mentors/kabir.jpg" class="mentor-photo">
+    <div class="mentor-name">Dr. Ahmedul Kabir</div>
+    <div class="mentor-title">Associate Professor, IIT, University of Dhaka</div>
+    <div class="mentor-connection">[How you're connected]</div>
+  </div>
+</div>
 
-| Student | Topic |
-|---------|-------|
-| To be added | Edge AI |
-| To be added | Domain Adaptation |
+<h3 class="lab-heading">Mentees & Collaborators</h3>
 
-## Undergraduate Students
+<div class="lab-group">
+  <div class="lab-heading" style="font-size:1em;">CARS — IoT & Robotics Lab</div>
 
-| Student | Topic |
-|---------|-------|
-| To be added | LLM Applications |
-| To be added | Software Engineering |
+  <div class="project-card">
+    <div class="project-top">
+      <span class="project-title">Modality-Agnostic Domain Adaptation Framework for Heterogeneous Data</span>
+      <span class="project-status ongoing">Ongoing</span>
+    </div>
+    <div class="project-people">
+      <span>[Student Name], [Degree]</span>
+    </div>
+  </div>
 
-## Mentorship
+  <div class="project-card">
+    <div class="project-top">
+      <span class="project-title">Lightweight Domain-Adaptive Leaf Disease Classification for Tiny/Edge Devices</span>
+      <span class="project-status completed">Completed</span>
+    </div>
+    <div class="project-people">
+      <span>[Student Name], [Degree]</span>
+    </div>
+  </div>
+</div>
 
-I enjoy mentoring students from idea generation through experimentation, paper writing, and research communication.
+<div class="lab-group">
+  <div class="lab-heading" style="font-size:1em;">BARTA Research Lab</div>
+
+  <div class="project-card">
+    <div class="project-top">
+      <span class="project-title">A Security Framework for Protecting LLM Agents Against Prompt Injection</span>
+      <span class="project-status ongoing">Ongoing</span>
+    </div>
+    <div class="project-people">
+      <span>[Student Name], [Degree]</span>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-top">
+      <span class="project-title">Resource-Efficient Language Model Inference through Recursive and Small Language Models</span>
+      <span class="project-status ongoing">Ongoing</span>
+    </div>
+    <div class="project-people">
+      <span>[Student Name], [Degree]</span>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-top">
+      <span class="project-title">Voices of Care: LLM-Assisted Analysis of Alzheimer's and Dementia Discourse on Reddit</span>
+      <span class="project-status completed">Completed</span>
+    </div>
+    <div class="project-people">
+      <span>Umme Kulsum Tumpa, MSSE</span>
+    </div>
+  </div>
+</div>
+
+<div class="lab-group">
+  <div class="lab-heading" style="font-size:1em;">DULL-IIT</div>
+
+  <div class="project-card">
+    <div class="project-top">
+      <span class="project-title">Cross-Language Flaky Test Classification</span>
+      <span class="project-status ongoing">Ongoing</span>
+    </div>
+    <div class="project-people">
+      <span>[Student Name], [Degree]</span>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-top">
+      <span class="project-title">Bangla Plagiarism Tool</span>
+      <span class="project-status completed">Completed</span>
+    </div>
+    <div class="project-people">
+      <span>[Student Name], [Degree]</span>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-top">
+      <span class="project-title">Prompt-Based Code Generation</span>
+      <span class="project-status completed">Completed</span>
+    </div>
+    <div class="project-people">
+      <span>[Student Name], [Degree]</span>
+    </div>
+  </div>
+</div>
