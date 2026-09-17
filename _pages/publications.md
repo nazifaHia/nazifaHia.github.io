@@ -4,9 +4,6 @@ permalink: /publications/
 author_profile: true
 classes: wide
 ---
-
-*(Selected publications below. Full list on [Google Scholar](https://scholar.google.com).)*
-
 <h3 class="pub-year">2026</h3>
 
 <div class="pub-card">
