@@ -65,6 +65,21 @@ Alongside my research, I supervise undergraduate and postgraduate researchers ac
     </div>
   </div>
 
+<div class="update">
+  <span class="date">Aug 2025</span>
+  <div class="text">
+    Joined <strong>DULL-IIT</strong> as a Mentor, supporting student research in AI and Software Engineering.
+  </div>
+</div>
+
+<div class="update">
+  <span class="date">Apr 2025</span>
+  <div class="text">
+    Joined <strong>BARTA Research Lab</strong> as a Mentor, contributing to AI Security, LLMs & Software Engineering research.
+  </div>
+</div>
+
+
   <div class="update">
     <span class="date">2023</span>
     <div class="text">
