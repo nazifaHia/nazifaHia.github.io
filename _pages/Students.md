@@ -1,6 +1,6 @@
 ---
 title: "Team & Mentors"
-permalink: /students/
+permalink: /Team & Mentors/
 author_profile: false
 classes: wide
 ---
