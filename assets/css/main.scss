@@ -540,10 +540,11 @@ html.dark-mode .project-title {
   }
 }
 .mentorship-page-wrapper {
-  width: 92vw;                          /* how much of the browser width to use */
-  max-width: 1300px;                    /* don't grow past this even on huge screens */
-  margin-left: calc(-46vw + 50%);       /* pulls it out of the parent's narrow column */
-  margin-right: calc(-46vw + 50%);
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 92vw;
+  max-width: 1300px;
   box-sizing: border-box;
 }
 
@@ -573,8 +574,8 @@ html.dark-mode .project-title {
 @media (max-width: 768px) {
   .mentorship-page-wrapper {
     width: 100%;
-    margin-left: 0;
-    margin-right: 0;
+    left: 0;
+    transform: none;
   }
   .mentorship-columns {
     flex-direction: column;
