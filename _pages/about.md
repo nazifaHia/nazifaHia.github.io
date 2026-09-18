@@ -72,21 +72,28 @@ Alongside my research, I supervise undergraduate and postgraduate researchers ac
 <div class="update">
     <span class="date">Aug 2023</span>
     <div class="text">
-      Joined University Of Liberal Arts Bangladesh (ULAB) as a full-time Faculty.
+      Joined University Of Liberal Arts Bangladesh <strong>(ULAB) as a full-time Faculty </strong>.
+    </div>
+</div>
+
+<div class="update">
+    <span class="date">Aug 2023</span>
+    <div class="text">
+      Succesfully <strong>defended my Masters Thesis </strong> at IIT, University of Dhaka.
+    </div>
+</div>
+
+<div class="update">
+    <span class="date">Jul 2023</span>
+    <div class="text">
+      Joined University Of Liberal Arts Bangladesh <strong>(ULAB) as an Adjunct Faculty </strong>.
     </div>
 </div>
 
 <div class="update">
     <span class="date">Jan 2023</span>
     <div class="text">
-      Joined University Of Liberal Arts Bangladesh (ULAB) as an Adjunct Faculty.
-    </div>
-</div>
-
-<div class="update">
-    <span class="date">Jan 2023</span>
-    <div class="text">
-      Received the ICT Division Master's Fellowship from the Government of Bangladesh for graduate research.
+      Received the <strong>ICT Division Master's Fellowship</strong> from the Government of Bangladesh for graduate research.
     </div>
 </div>
 

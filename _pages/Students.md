@@ -5,12 +5,16 @@ author_profile: false
 classes: wide
 ---
 
+
 <div class="exp-page-title">Research Supervision & Mentorship</div>
 
 <p class="mentorship-summary">
   Currently mentoring 5 ongoing and 4 completed research projects across three labs — CARS, BARTA, and DULL-IIT.
 </p>
 
+<div class="mentorship-page-wrapper">
+  <div class="mentorship-columns">
+    
 <div class="mentorship-columns">
 
   <!-- LEFT COLUMN: MENTEES -->
@@ -149,4 +153,6 @@ classes: wide
     </div>
   </div>
 
+</div>
+  </div>
 </div>
