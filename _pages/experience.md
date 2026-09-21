@@ -13,12 +13,15 @@ classes: wide
   <div class="exp-dates">Since Sep 2025</div>
   <div class="exp-desc">Conducting research on Computer Vision and Edge AI, developing approaches for Domain Adaptation and Machine Unlearning to improve model adaptability and reliability. Supervising postgraduate research and managing the IoT and Robotics Lab to support applied research and innovation.</div>
   <div class="exp-tech">
+    <span class="exp-chip">Python</span>
     <span class="exp-chip">PyTorch</span>
-    <span class="exp-chip">ONNX</span>
-    <span class="exp-chip">[+ your stack]</span>
+    <span class="exp-chip">TensorFlow/Keras</span>
+    <span class="exp-chip">Deep Learning</span>
+    <span class="exp-chip">Edge AI</span>    
   </div>
   <div class="exp-students-link">Projects & student collaborators → <a href="/students/">Students</a></div>
 </div>
+**PyTorch · TensorFlow/Keras · Python · Deep Learning · Edge AI**
 
 <div class="exp-row">
   <div class="exp-card">
@@ -29,7 +32,9 @@ classes: wide
     <div class="exp-tech">
       <span class="exp-chip">PyTorch</span>
       <span class="exp-chip">HuggingFace</span>
-      <span class="exp-chip">[+ your stack]</span>
+      <span class="exp-chip">RAG</span>
+      <span class="exp-chip">Sentence Transformers</span>
+      <span class="exp-chip">Information Retrieval</span>
     </div>
     <div class="exp-students-link">Projects & students → <a href="/students/">Students</a></div>
   </div>
@@ -40,10 +45,15 @@ classes: wide
     <div class="exp-dates">Since Aug 2025</div>
     <div class="exp-desc">Actively contributing to research on Flaky Testing Classification and Prompt-Based Code Generation. Supervising and mentoring postgraduate thesis research.</div>
     <div class="exp-tech">
-      <span class="exp-chip">Python</span>
-      <span class="exp-chip">LLM APIs</span>
-      <span class="exp-chip">[+ your stack]</span>
-    </div>
+      <div class="exp-tech">
+        <span class="exp-chip">Python</span>
+        <!-- <span class="exp-chip">Transformer Architectures</span> -->
+        <!-- <span class="exp-chip">Code LLMs</span> -->
+        <span class="exp-chip">Prompt-Based Learning</span>
+        <span class="exp-chip">NLP</span>
+        <!-- <span class="exp-chip">Text Classification</span> -->
+        <span class="exp-chip">Code Generation</span>
+      </div>
     <div class="exp-students-link">Projects & students → <a href="/students/">Students</a></div>
   </div>
 </div>
