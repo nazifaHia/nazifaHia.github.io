@@ -6,11 +6,11 @@ classes: wide
 ---
 Hi, I am Nazifa Tasnim Hia!!
 
-I am a Scientist at the Centre for Advanced Research in Sciences (CARS), University of Dhaka, where I lead the IoT & Robotics Lab. My research focuses on developing efficient, secure, and reliable AI systems for resource-constrained environments, with particular interests in edge AI, computer vision, and domain adaptation. I investigate lightweight learning methods that improve model adaptability while enhancing robustness through machine unlearning and trustworthy AI techniques.
+I am a **Scientist** at the **Centre for Advanced Research in Sciences (CARS), University of Dhaka**, where I lead the **IoT & Robotics Lab**. My research focuses on building **efficient, secure, and reliable AI systems for resource-constrained environments**, centered on three interconnected threads: **edge AI**, **computer vision**, and **domain adaptation**. Specifically, I design lightweight learning methods that improve model adaptability across domains, while using **machine unlearning** and **trustworthy AI** techniques to make those models more robust and reliable once deployed.
 
-My broader research interests include large language models, AI security, prompt-based code generation, low-resource Bangla NLP, and software engineering. I am particularly interested in bridging research and deployment by designing practical AI systems that are both computationally efficient and resilient to real-world challenges.
+Beyond this core focus, I work on **large language models**, **AI security**, **prompt-based code generation**, **low-resource Bangla NLP**, and **software engineering**. Across all of these, my interest is the same: bridging research and deployment by designing AI systems that are both **computationally efficient** and **resilient to real-world conditions**.
 
-Alongside my research, I supervise undergraduate and postgraduate researchers across multiple research groups, mentoring students from research ideation and experimental design to implementation, thesis development, and publication. I enjoy building collaborative research environments that help transform early-stage ideas into impactful, real-world AI solutions.
+Alongside my research, I **supervise undergraduate and postgraduate researchers** across multiple research groups, mentoring them from research ideation and experimental design through implementation, thesis development, and publication. I enjoy building collaborative research environments that turn early-stage ideas into impactful, real-world AI solutions.
 
 <div class="research-tags">
   <span>Computer Vision</span>
