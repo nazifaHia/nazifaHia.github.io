@@ -36,15 +36,15 @@ classes: wide
       <span class="exp-chip">Sentence Transformers</span>
       <span class="exp-chip">Information Retrieval</span>
     </div>
-    <!-- <div class="exp-students-link">Projects & students → <a href="/students/">Students</a></div> -->
   </div>
+  <!-- </div> -->
+    <!-- <div class="exp-students-link">Projects & students → <a href="/students/">Students</a></div> --
 
   <div class="exp-card">
     <div class="exp-role">Research Mentor — DULL-IIT</div>
     <div class="exp-place">University of Dhaka</div>
     <div class="exp-dates">Since Aug 2025</div>
     <div class="exp-desc">Actively contributing to research on Flaky Testing Classification and Prompt-Based Code Generation. Supervising and mentoring postgraduate thesis research.</div>
-    <div class="exp-tech">
       <div class="exp-tech">
         <span class="exp-chip">Python</span>
         <!-- <span class="exp-chip">Transformer Architectures</span> -->
