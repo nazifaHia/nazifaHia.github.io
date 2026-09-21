@@ -6,7 +6,7 @@ classes: wide
 ---
 Hi, I am Nazifa Tasnim Hia!!
 
-I am a **Scientist** at the **Centre for Advanced Research in Sciences (CARS), University of Dhaka**, where I lead the **IoT & Robotics Lab**. My research focuses on building **efficient, secure, and reliable AI systems for resource-constrained environments**, centered on three interconnected threads: **edge AI**, **computer vision**, and **domain adaptation**. Specifically, I design lightweight learning methods that improve model adaptability across domains, while using **machine unlearning** and **trustworthy AI** techniques to make those models more robust and reliable once deployed.
+I am a **Scientist** at the **Centre for Advanced Research in Sciences (CARS), University of Dhaka**, where I lead the **IoT & Robotics Lab**. My research focuses on building **efficient, secure, and reliable AI systems for resource-constrained environments**, centered on three interconnected threads: **computer vision**, **edge AI**, , and **domain adaptation**. Specifically, I design lightweight learning methods that improve model adaptability across domains, while using **machine unlearning** and **trustworthy AI** techniques to make those models more robust and reliable once deployed.
 
 Beyond this core focus, I work on **large language models**, **AI security**, **prompt-based code generation**, **low-resource Bangla NLP**, and **software engineering**. Across all of these, my interest is the same: bridging research and deployment by designing AI systems that are both **computationally efficient** and **resilient to real-world conditions**.
 

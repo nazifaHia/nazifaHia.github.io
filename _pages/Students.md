@@ -19,7 +19,7 @@ classes: wide
 
   <!-- LEFT COLUMN: MENTEES -->
   <div class="mentorship-col mentees-col">
-    <h3 class="lab-heading">Students I Supervise</h3>
+    <!-- <h3 class="lab-heading">Students I Supervise</h3> -->
 
     <div class="lab-group">
       <div class="lab-heading" style="font-size:1em;">CARS — IoT & Robotics Lab</div>
@@ -111,7 +111,7 @@ classes: wide
         <div class="mentor-name">Dr. Sumon Ahmed</div>
         <div class="mentor-title">Associate Professor, IIT, University of Dhaka</div>
         <div class="mentor-tag active">Mentor & Reference</div>
-        <div class="mentor-connection">Supervised my masters thesis. Currently co-supervising masters students with sir</div>
+        <div class="mentor-connection">Sir, supervised my masters thesis. Currently co-supervising masters students with sir</div>
       </div>
     </div>
 
@@ -134,16 +134,6 @@ classes: wide
         <div class="mentor-connection">Working in Machine Unlearaning with sir</div>
       </div>
     </div>
-
-       <!-- <div class="mentor-card-compact">
-      <img src="/images/Ahmedul.jpg" class="mentor-photo-sm">
-      <div class="mentor-info">
-        <div class="mentor-name">Dr. Ahmedul Kabir</div>
-        <div class="mentor-title">Associate Professor, IIT, University of Dhaka</div>
-        <div class="mentor-tag active">Mentor & Reference</div>
-        <div class="mentor-connection"><!-- fill in --></div>
-      </div>
-    </div> -->
 
   </div>
 
