@@ -35,10 +35,8 @@ classes: wide
     </div>
 
     <div class="exp-tech">
-      <span class="exp-chip">PyTorch</span>
-      
+      <span class="exp-chip">PyTorch</span>  
       <span class="exp-chip">RAG</span>
-
       <span class="exp-chip">Information Retrieval</span>
     </div>
   </div>
