@@ -36,9 +36,9 @@ classes: wide
 
     <div class="exp-tech">
       <span class="exp-chip">PyTorch</span>
-      <span class="exp-chip">Hugging Face</span>
+      
       <span class="exp-chip">RAG</span>
-      <span class="exp-chip">Sentence Transformers</span>
+
       <span class="exp-chip">Information Retrieval</span>
     </div>
   </div>
@@ -53,7 +53,6 @@ classes: wide
     </div>
 
     <div class="exp-tech">
-      <span class="exp-chip">Python</span>
       <span class="exp-chip">Prompt-Based Learning</span>
       <span class="exp-chip">NLP</span>
       <span class="exp-chip">Code Generation</span>
