@@ -19,7 +19,7 @@ classes: wide
     <span class="exp-chip">Deep Learning</span>
     <span class="exp-chip">Edge AI</span>    
   </div>
-  <div class="exp-students-link">Projects & student collaborators → <a href="/students/">Students</a></div>
+  <!-- <div class="exp-students-link">Projects & student collaborators → <a href="/students/">Students</a></div> -->
 </div>
 **PyTorch · TensorFlow/Keras · Python · Deep Learning · Edge AI**
 
@@ -36,7 +36,7 @@ classes: wide
       <span class="exp-chip">Sentence Transformers</span>
       <span class="exp-chip">Information Retrieval</span>
     </div>
-    <div class="exp-students-link">Projects & students → <a href="/students/">Students</a></div>
+    <!-- <div class="exp-students-link">Projects & students → <a href="/students/">Students</a></div> -->
   </div>
 
   <div class="exp-card">
@@ -54,7 +54,7 @@ classes: wide
         <!-- <span class="exp-chip">Text Classification</span> -->
         <span class="exp-chip">Code Generation</span>
       </div>
-    <div class="exp-students-link">Projects & students → <a href="/students/">Students</a></div>
+    <!-- <div class="exp-students-link">Projects & students → <a href="/students/">Students</a></div> -->
   </div>
 </div>
 
