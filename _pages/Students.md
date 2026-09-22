@@ -1,5 +1,5 @@
 ---
-title: "Team & Mentors"
+# title: "Team & Mentors"
 permalink: /Team & Mentors/
 author_profile: false
 classes: wide
