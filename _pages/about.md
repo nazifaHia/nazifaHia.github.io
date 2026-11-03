@@ -29,6 +29,13 @@ Alongside my research, I **supervise undergraduate and postgraduate researchers*
   <div class="update">
     <span class="date">Sep 2026</span>
     <div class="text">
+      Our paper <em>SPARC-CL: Feature Unlearning for Domain-Adaptive Leaf Disease Classification on Edge Devices</em> pre print is available.
+    </div>
+  </div>
+
+  <div class="update">
+    <span class="date">Sep 2026</span>
+    <div class="text">
       Our paper <em>A Domain-Invariant and Edge-Efficient Framework for Leaf Disease Classification</em> was accepted in <strong>IEEE Access</strong>.
     </div>
   </div>

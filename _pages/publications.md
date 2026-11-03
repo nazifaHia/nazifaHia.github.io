@@ -8,6 +8,18 @@ classes: wide
 
 <div class="pub-card">
   <div class="pub-thumb-box">
+    <img src="/images/MMDUnlearning-Final.png" class="pub-thumb">
+  </div>
+  <div>
+    <div class="pub-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7372001">SPARC-CL: Feature Unlearning for Domain-Adaptive Leaf Disease Classification on Edge Devices</a></div>
+    <div class="pub-authors"><b>Hia, N. T.</b>, Hossain, S., Nower, N.</div>
+    <div class="pub-venue">Under review, 2026</div>
+    <div class="pub-desc">A feature-unlearning framework for domain-adaptive leaf disease classification, designed for deployment on edge devices.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-thumb-box">
     <img src="/images/maindia1.drawio.png" class="pub-thumb">
   </div>
   <div>
@@ -30,17 +42,7 @@ classes: wide
   </div>
 </div>
 
-<div class="pub-card">
-  <div class="pub-thumb-box">
-    <img src="/images/MMDUnlearning-Final.png" class="pub-thumb">
-  </div>
-  <div>
-    <div class="pub-title"><a href="#">SPARC-CL: Feature Unlearning for Domain-Adaptive Leaf Disease Classification on Edge Devices</a></div>
-    <div class="pub-authors"><b>Hia, N. T.</b>, Hossain, S., Nower, N.</div>
-    <div class="pub-venue">Under review, 2026</div>
-    <div class="pub-desc">A feature-unlearning framework for domain-adaptive leaf disease classification, designed for deployment on edge devices.</div>
-  </div>
-</div>
+
 
 <h3 class="pub-year">2025</h3>
 
