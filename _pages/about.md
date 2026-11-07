@@ -29,7 +29,14 @@ Alongside my research, I **supervise undergraduate and postgraduate researchers*
   <div class="update">
     <span class="date">Sep 2026</span>
     <div class="text">
-      Our paper <em>SPARC-CL: Feature Unlearning for Domain-Adaptive Leaf Disease Classification on Edge Devices</em> pre print is available.
+      Our paper <em>An Empirical Study of Domain Adaptation for Cross-Language Flaky Test Classification: Java-to-Python Transfer with Limited Target Labels</em> is <strong>under review</strong>.
+    </div>
+  </div>
+
+  <div class="update">
+    <span class="date">Sep 2026</span>
+    <div class="text">
+      The preprint of our paper <em>SPARC-CL: Feature Unlearning for Domain-Adaptive Leaf Disease Classification on Edge Devices</em> is now <strong>available on SSRN</strong>.
     </div>
   </div>
 
