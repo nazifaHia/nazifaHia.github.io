@@ -27,7 +27,7 @@ Alongside my research, I **supervise undergraduate and postgraduate researchers*
 <div class="whats-new">
 
   <div class="update">
-    <span class="date">Sep 2026</span>
+    <span class="date">Oct 2026</span>
     <div class="text">
       Our paper <em>An Empirical Study of Domain Adaptation for Cross-Language Flaky Test Classification: Java-to-Python Transfer with Limited Target Labels</em> is <strong>under review</strong>.
     </div>
